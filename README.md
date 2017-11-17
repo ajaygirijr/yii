@@ -1,5 +1,5 @@
 # yii
-This is a Yii2 project
+This is a Yii2 project basedo n Yii2 framework.
 
 
 How to add a project to Git repository
